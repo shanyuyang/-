@@ -9,6 +9,7 @@ from datetime import datetime
 
 # —— 页面配置 ——
 st.set_page_config(page_title='出荷分析App', layout='wide')
+st.title("📊 出荷分析")
 
 # —— 语言切换 ——
 st.sidebar.markdown("### 🌐 语言 / Language")
