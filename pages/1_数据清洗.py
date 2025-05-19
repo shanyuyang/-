@@ -227,3 +227,4 @@ if file_uploaded:
     )
     
     st.session_state.cleaned_df = df_final  # ✅ 传给分析页的数据（整合结果）
+Rename to Streamlit sidebar format
