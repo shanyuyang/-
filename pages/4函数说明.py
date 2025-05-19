@@ -75,3 +75,4 @@ st.markdown("**解读要点：**\n"
 )
 
 st.markdown("*版本：1.0 • 更新日期：2025-05-18*")
+Rename to sidebar format                                      
