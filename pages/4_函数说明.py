@@ -74,5 +74,4 @@ st.markdown("**解读要点：**\n"
             "- 缺货频繁：提升订单处理和供应链协同效率。"
 )
 
-st.markdown("*版本：1.0 • 更新日期：2025-05-18*")
-Rename to sidebar format                                      
+st.markdown("*版本：1.0 • 更新日期：2025-05-18*")                                      
