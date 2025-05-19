@@ -481,4 +481,3 @@ st.download_button(
     buf,
     'report.xlsx',
     'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')
-Rename to sidebar format
